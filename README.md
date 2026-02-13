@@ -2,7 +2,6 @@
 
 🎓 Senior Robotics and Artificial Intelligence Engineering student  
 📊 Interested in Data Analytics, AI, and Finance 
-💻 Skilled in Python, SQL, Power BI, and MATLAB 
 
 ## 🚀 Current Focus
 - Building data analysis and business intelligence projects
