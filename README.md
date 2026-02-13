@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Joe 👋
 
-<!--
-**nara-cheyklin/nara-cheyklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior Robotics and Artificial Intelligence Engineering student  
+📊 Interested in Data Analytics, AI, and Finance 
+💻 Skilled in Python, SQL, Power BI, and MATLAB 
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- Building data analysis and business intelligence projects
+- Exploring AI applications
+- Learning Git & software collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- 📊 Portfolio Optimization with Linear Programming
+- 🤖 Mobile Robot with Hand-Gesture Control
+- 🧮 Decision Analysis Project
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/nara-cheyklin
