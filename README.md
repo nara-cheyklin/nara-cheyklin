@@ -11,7 +11,7 @@
 ## 📂 Featured Projects
 - 📊 Portfolio Optimization with Linear Programming
 - 🤖 Mobile Robot with Hand-Gesture Control
-- 🧮 Decision Analysis Project
+- 🧮 Decision Analysis with Bayesian Network
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/nara-cheyklin
