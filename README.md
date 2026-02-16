@@ -12,6 +12,7 @@
 - 📊 Portfolio Optimization with Linear Programming
 - 🤖 Mobile Robot with Hand-Gesture Control
 - 🧮 Decision Analysis with Bayesian Network
+- 🧮 Decision Analysis with Game Theory
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/nara-cheyklin
