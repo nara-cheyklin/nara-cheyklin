@@ -13,6 +13,6 @@
 - 🤖 Mobile Robot with Hand-Gesture Control
 - 🧮 Decision Analysis with Bayesian Network
 - 🧮 Decision Analysis with Game Theory
-
+- 🦷 Gingigauge: AI-driven measurement of Keratinized Gingiva (Software Part) 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/nara-cheyklin
