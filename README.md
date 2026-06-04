@@ -16,4 +16,4 @@
 - 🦷 Gingigauge: AI-driven Measurement System of Keratinized Gingiva Width(Software Part) 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/nara-cheyklin
-- PortfolioSite: https://nara-cheyklin-portfolio.vercel.app/
+- Portfolio Site: https://nara-cheyklin-portfolio.vercel.app/
